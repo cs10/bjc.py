@@ -1,4 +1,8 @@
 bjc.py
 ======
 
-Tools for going beyond blocks
+Python tools for BJC.
+
+Currently, this includes:
+* A Twitter Lab (see the twitter submodule)
+* Codification for Snap -> Python
